@@ -1,8 +1,6 @@
 <div align=center>
+    ### Sesi Remedial Praktikum
 
-    ### Sesi Remedial
-
-    [LINK SOAL](https://www.hackerrank.com/remedial-strukdat-2024)
-    
+    [Link Soal](https://www.hackerrank.com/remedial-strukdat-2024)
 </div>
 
