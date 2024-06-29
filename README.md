@@ -1,5 +1,6 @@
-# Strukdat - 2024
-
+<div align = center>
+  # Strukdat - 2024
+</div>
 ### Mata Kuliah Struktur Data dan Pemrograman Berorientasi Obyek 
 
 Departemen Teknologi Informasi - Institut Teknologi Sepuluh Nopember
