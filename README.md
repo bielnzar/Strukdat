@@ -4,7 +4,7 @@
 
 </div>
 
-### Mata Kuliah Struktur Data dan Pemrograman Berorientasi Obyek 
+### Mata Kuliah Struktur Data dan Pemrograman Berorientasi Objek 
 
 Departemen Teknologi Informasi - Institut Teknologi Sepuluh Nopember
 
