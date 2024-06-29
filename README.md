@@ -1,2 +1,7 @@
-# Strukdat
-Mata Kuliah Struktur Data dan Pemrograman Berorientasi Obyek
+# Strukdat - 2024
+
+### Mata Kuliah Struktur Data dan Pemrograman Berorientasi Obyek 
+
+Departemen Teknologi Informasi - Institut Teknologi Sepuluh Nopember
+
+Dosen Pengampu : Dr.tech.Ir. Raden Venantius Hari Ginardi, M.Sc
